@@ -237,11 +237,9 @@ section {
   .contact-info iframe {
       width: 400px;
       height: 400px;
-      float: left;
   }
 
   .contact-info div {
-      float: left;
       width: 410px;
       display: inline-block;
       vertical-align: top;
