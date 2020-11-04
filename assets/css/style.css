@@ -337,7 +337,7 @@ section {
   /* MEDIA QUERY FOR SMALLER DESKTOP SCREENS AND SMALLER */
 @media screen and (max-width: 980px) {
     header {
-        paddin-bottom: 0;
+        padding-bottom: 0;
         justify-content: center;
     }
 
